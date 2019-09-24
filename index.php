@@ -11,7 +11,7 @@
 
     while ($row = $res -> fetch_assoc()) {
 
-      $bevande[] = new Bevande($row);
+      $bevande[] = new Bevanda($row);
     }
   }
 
