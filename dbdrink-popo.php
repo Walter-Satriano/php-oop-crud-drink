@@ -1,6 +1,6 @@
 <?php
 
-  class Bevande {
+  class Bevanda {
 
     private $id;
     private $nome;
